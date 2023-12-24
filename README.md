@@ -6,10 +6,10 @@ This Sound Synthesizer offers a range of customizable elements to shape sound wh
 
 https://github.com/Mugsend/sound-synthesizer/assets/72512157/acaa3548-1770-43cf-acd1-9ea32823944b
 
-Here's a quick rundown of its main features:
+Here's a quick rundown of its current main features (if you are not familiar with synthesizers checkout this super fun interactive [website](https://learningsynths.ableton.com/) created by Ableton.):
+
 
 ## Features
-The current features are:
 
 ### Oscillators
 
