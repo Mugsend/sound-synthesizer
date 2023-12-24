@@ -4,7 +4,7 @@
 
 The C++ Sound Synthesizer project is a feature-rich audio synthesis application designed for music enthusiasts and creators. The project offers a range of customizable elements to shape and explore your sound.
 
-https://github.com/Mugsend/sound-synthesizer/assets/72512157/ffdde991-8e7f-4b2d-ae07-9a277280c072
+https://github.com/Mugsend/sound-synthesizer/assets/72512157/acaa3548-1770-43cf-acd1-9ea32823944b
 
 Here's a quick rundown of its main features:
 
