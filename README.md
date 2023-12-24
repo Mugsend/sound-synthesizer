@@ -30,3 +30,7 @@ A 2-4 voices chorus effect with detune slider.
 ### Keyboard Interaction
 
 The synthesizer supports keyboard interaction, allowing users to play melodies. Adjusting octaves is convenient using the number keys, providing flexibility in pitch range.
+
+# Demo Video
+
+<iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/x6mAEQW3Jwi/embed" width="640" height="360"></iframe>
