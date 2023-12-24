@@ -35,3 +35,6 @@ A 2-4 voices chorus effect with detune slider.
 
 The synthesizer supports keyboard interaction, allowing users to play melodies. Adjusting octaves is convenient using the number keys, providing flexibility in pitch range.
 
+
+I actually used it to produce this:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HyUTpgPIOOU?si=PkLIylRLNJkISIt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
