@@ -2,7 +2,11 @@
 
 ## Overview
 
-The C++ Sound Synthesizer project is a feature-rich audio synthesis application designed for music enthusiasts and creators. The project offers a range of customizable elements to shape and explore your sound. Here's a quick rundown of its main features:
+The C++ Sound Synthesizer project is a feature-rich audio synthesis application designed for music enthusiasts and creators. The project offers a range of customizable elements to shape and explore your sound.
+
+https://github.com/Mugsend/sound-synthesizer/assets/72512157/ffdde991-8e7f-4b2d-ae07-9a277280c072
+
+Here's a quick rundown of its main features:
 
 ## Features
 The current features are:
@@ -30,3 +34,4 @@ A 2-4 voices chorus effect with detune slider.
 ### Keyboard Interaction
 
 The synthesizer supports keyboard interaction, allowing users to play melodies. Adjusting octaves is convenient using the number keys, providing flexibility in pitch range.
+
